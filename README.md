@@ -1,8 +1,10 @@
 # The-Package-Bay
 P2P package delivery system 
 #What is it? 
-Want a package delivered to a friend? 
+Want a package delivered to a friend?
+
 The Package Bay is a peer to peer package delivery system that was built for just that. 
+
   
 #Features:
 
