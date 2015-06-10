@@ -19,3 +19,6 @@ The Package Bay is a peer to peer package delivery system that was built for jus
 ![My image](http://i.imgur.com/D28epiU.png)
 ![My image](http://i.imgur.com/8ez1Jwu.png?1)
 ![My image](http://i.imgur.com/tnJbkpw.png?1)
+![My image](http://i.imgur.com/XZ13bPk.png?1)
+![My image](http://i.imgur.com/J9nUd2b.png?1)
+
